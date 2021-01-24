@@ -1,0 +1,10 @@
+AD8421,U,,,
+Pin,Type,Name,Side,Hidden
+1,input,-IN,left,
+2,passive,Rg,left,
+3,passive,Rg,left,
+4,input,+IN,left,
+5,power_in,-VS,right,
+6,input,REF,right,
+7,output,OUT,right,
+8,power_in,+VS,right,

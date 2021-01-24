@@ -1,0 +1,2 @@
+kipart scsi36_female.csv -s row -a -o ../xeit.lib
+kipart scsi36_female.csv -a -o ../xeit.lib

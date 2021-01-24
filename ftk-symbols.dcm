@@ -1,0 +1,251 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD4000
+D Pseudo Differential, 16 bit, 1 LSB, 2 MSPS
+$ENDCMP
+#
+$CMP AD4001
+D Differential, 16 bit, 0.4 LSB, 2 MSPS
+$ENDCMP
+#
+$CMP AD4002
+D Pseudo Differential, 18 bit, 3.1 LSB, 2 MSPS
+$ENDCMP
+#
+$CMP AD4003
+D Differential, 18 bit, 1 LSB, 2 MSPS
+$ENDCMP
+#
+$CMP AD4004
+D Pseudo Differential, 16 bit, 1 LSB, 1 MSPS
+$ENDCMP
+#
+$CMP AD4005
+D Differential, 16 bit, 0.4 LSB, 1 MSPS
+$ENDCMP
+#
+$CMP AD4006
+D Pseudo Differential, 18 bit, 3.2 LSB, 1 MSPS
+$ENDCMP
+#
+$CMP AD4007
+D Differential, 18 bit, 1 LSB, 1 MSPS
+$ENDCMP
+#
+$CMP AD4008
+D Pseudo Differential, 16 bit, 1 LSB, 500 KSPS
+$ENDCMP
+#
+$CMP AD4010
+D Pseudo Differential, 18 bit, 3.2 LSB, 500 KSPS
+$ENDCMP
+#
+$CMP AD4011
+D Differential, 18 bit, 1 LSB, 500 KSPS
+$ENDCMP
+#
+$CMP AD4020
+D Differential, 20 bit, 3.1 ppm, 1.8 MSPS
+$ENDCMP
+#
+$CMP AD5683R
+D AD5683R
+F MSOP-10, VLOGIC
+$ENDCMP
+#
+$CMP AD5721R
+D 12 bit, 0.5 LSB
+$ENDCMP
+#
+$CMP AD5721RBRUZ
+D 12 bit, 0.5 LSB
+$ENDCMP
+#
+$CMP AD5760
+D 16bit, 2LSB
+$ENDCMP
+#
+$CMP AD5760BCPZ
+D 16bit, 0.5LSB
+$ENDCMP
+#
+$CMP AD5761R
+D 16 bit, 2 LSB
+$ENDCMP
+#
+$CMP AD5780
+D 18bit, 2LSB
+$ENDCMP
+#
+$CMP AD5780BCPZ
+D 18bit, 1LSB
+$ENDCMP
+#
+$CMP AD5781
+D 18bit, 4LSB
+$ENDCMP
+#
+$CMP AD5781BRUZ
+D 0.5LSB
+$ENDCMP
+#
+$CMP AD5790BCPZ
+D 20bit, 4LSB
+$ENDCMP
+#
+$CMP AD5791
+D 20bit, 4LSB
+$ENDCMP
+#
+$CMP AD5791BRUZ
+D 1.5LSB
+$ENDCMP
+#
+$CMP AD7606B
+D 8-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC, LQFP-64
+K 16bit DAS ADC 8channel 800KSPS
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf
+$ENDCMP
+#
+$CMP AD8065
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP AD8066
+D Analog Devices AD8066
+K SOIC, MSOP
+$ENDCMP
+#
+$CMP AD8130
+D AD8130
+K AD8130
+$ENDCMP
+#
+$CMP AD8274
+D Gain=0.5/2, OVP, Low Noise, SOIC-8/MSOP-8
+K Difference Amplifier
+$ENDCMP
+#
+$CMP AD8276
+D Gain=1, OVP, SOIC-8/MSOP-8
+K Difference Amplifier
+$ENDCMP
+#
+$CMP AD8278
+D Gain=0.5/2, OVP, Low Cost, SOIC-8/MSOP-8
+K Difference Amplifier
+$ENDCMP
+#
+$CMP AD8675
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP AD8676
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP AD8676BRZ
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP ADA4077-1
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP ADA4077-2
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP ADR4525
+D 4.096V
+$ENDCMP
+#
+$CMP ADR4540
+D 4.096V
+$ENDCMP
+#
+$CMP ADR4550
+D 5.0V
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+$ENDCMP
+#
+$CMP D
+D Diode
+$ENDCMP
+#
+$CMP D_Schottky
+D Diode schottky
+$ENDCMP
+#
+$CMP INA592
+D Gain=0.5/2, OVP, MSOP-8 only
+K Difference Amplifier
+$ENDCMP
+#
+$CMP MicroZed_JX
+D Bergstak 61083-10 x2
+K Microzed
+$ENDCMP
+#
+$CMP MicroZed_JX1
+D Bergstak 61083-10
+$ENDCMP
+#
+$CMP MicroZed_JX2
+D Bergstak 61083-10
+$ENDCMP
+#
+$CMP OPA192
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP OPA2134
+D OPAx134
+$ENDCMP
+#
+$CMP OPA2192
+D Amplifiers
+K OpAmp
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP R_Shunt_LVK
+D Shunt resistor
+K R res shunt resistor
+F ~
+$ENDCMP
+#
+$CMP TPS563240
+D 3A, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+$ENDCMP
+#
+$CMP TPS563249
+D 3A, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+$ENDCMP
+#
+$CMP TPS56339
+D 3A, 4.5-24V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(module Via-1.0mm (layer F.Cu) (tedit 595AF0CB)
+  (descr "Fake Stiching")
+  (tags "Via, Stich")
+  (zone_connect 2)
+  (fp_text reference REF** (at 0 -0.254) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.02)))
+  )
+  (fp_text value Via-1.0mm (at 0 -0.508) (layer F.Fab) hide
+    (effects (font (size 0.127 0.127) (thickness 0.02)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu)
+    (zone_connect 2))
+)

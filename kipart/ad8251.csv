@@ -1,0 +1,12 @@
+AD8251,U,,,
+Pin,Type,Name,Side,Hidden
+1,input,-IN,left,
+2,power_in,DGND,left,
+3,power_in,-VS,left,
+4,input,A0,left,
+5,input,A1,left,
+6,input,~WR~,right,
+7,output,OUT,right,
+8,power_in,+VS,right,
+9,input,REF,right,
+10,input,+IN,right,

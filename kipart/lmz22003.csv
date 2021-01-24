@@ -1,0 +1,10 @@
+LMZ22003,U,,,
+Pin,Type,Name,Side,Hidden
+1,power_in,VIN,bottom,
+2,input,SYNC,bottom,
+3,input,EN,bottom,
+4,power_in,AGND,bottom,
+8,power_in,PGND,bottom,
+5,input,FB,bottom,
+6,input,SS/TRK,bottom,
+7,power_out,VOUT,bottom,

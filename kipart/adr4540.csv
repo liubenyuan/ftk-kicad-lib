@@ -1,0 +1,10 @@
+ADR4540,U,,,
+Pin,Type,Name,Side,Hidden
+1,no_connect,NC1,left,
+2,power_in,VIN,left,
+3,no_connect,NC3,left,
+4,power_in,GND,left,
+5,no_connect,NC5,right,
+6,power_out,VOUT,right,
+7,bidirectional,NC7,right,
+8,no_connect,TP,right,

@@ -1,0 +1,13 @@
+ADG5421,U,,
+Pin,Type,Name,Side
+1,bidirectional,S1,left
+2,bidirectional,S2,left
+3,no_connect,NC,left
+4,power_in,GND,left
+5,power_in,VDD,left
+11,passive,EPAD,right
+6,input,IN2,right
+7,input,IN1,right
+8,power_in,VSS,right
+9,bidirectional,D2,right
+10,bidirectional,D1,right

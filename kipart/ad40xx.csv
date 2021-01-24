@@ -1,0 +1,13 @@
+AD40XX,U,,,
+Pin,Type,Name,Side,Hidden
+1,input,REF,left,
+2,power_in,VDD,left,
+3,input,IN+,left,
+4,input,IN-,left,
+5,power_in,GND,left,
+6,input,CNV,right,
+7,output,SDO,right,
+8,input,SCK,right,
+9,input,SDI,right,
+10,power_in,VIO,right,
+11,power_in,EPAD,bottom,

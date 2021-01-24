@@ -1,0 +1,11 @@
+TPS82130,U,,,
+Pin,Type,Name,Side,Hidden
+2,power_in,VIN,left,
+1,input,EN,left,
+8,input,SS/TR,left,
+3,power_in,GND,left,
+9,power_in,GND,right,
+7,output,PG,right,
+6,input,FB,right,
+4,passive,VOUT,right,
+5,power_out,VOUT,right,

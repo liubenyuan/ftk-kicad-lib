@@ -1,0 +1,12 @@
+AD8475,U,,,
+Pin,Type,Name,Side,Hidden
+1,input,-IN(0.8x),left,
+2,input,-IN(0.4x),left,
+3,power_in,+VS,left,
+4,input,VOCM,left,
+5,output,+OUT,left,
+6,output,-OUT,right,
+7,no_connect,NC7,right,
+8,power_in,-VS,right,
+9,input,+IN(0.4x),right,
+10,input,+IN(0.8x),right,
